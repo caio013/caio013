@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Caio Queiroz</h1>
+</br>
 <h3 align="center">A passionate about technology and innovation</h3>
 
 - 🌱 I’m currently learning **Java**
@@ -15,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caio013&show_icons=true&locale=en&layout=compact" alt="caio013" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caio013&show_icons=true&locale=en" alt="caio013" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=caio013&" alt="caio013" /></p>
