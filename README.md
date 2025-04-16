@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Caio Queiroz</h1>
-</br>
 <h3 align="center">A passionate about technology and innovation</h3>
 
 - 🌱 I’m currently learning **Java**
