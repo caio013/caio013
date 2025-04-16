@@ -1,8 +1,3 @@
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=caio013&show_icons=true&locale=en&layout=compact" alt="caio013" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caio013&show_icons=true&locale=en" alt="caio013" /></p>
-
 <h1 align="center">Hey, eu sou o Caio👋</h1>
 
 <p align="center">
