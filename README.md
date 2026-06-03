@@ -1,17 +1,14 @@
 <h1 align="center">Olá, eu sou o Caio 👋</h1>
 
 <p align="center">
-  <em>Estudante de Análise de Dados | Python · SQL · Power BI · Estatística</em>
+  <em>Estudante de Análise de Dados | Python · SQL · Power BI </em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caioviniciusqueiroz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://caioqueiroz.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="mailto:caio@email.com">
+  <a href="mailto:caiovinicius96@yahoo.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -60,8 +57,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
@@ -75,15 +70,6 @@
 | 🔜 Análise Exploratória de Vendas | EDA com Python em dataset real de e-commerce | Python, Pandas, Seaborn |
 | 🔜 Dashboard de Indicadores | Painel interativo com KPIs de negócio | Power BI, SQL |
 | 🔜 Limpeza e Tratamento de Dados | Pipeline de tratamento de dados sujos | Python, Pandas, NumPy |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=caio013&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio013&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 ---
 
